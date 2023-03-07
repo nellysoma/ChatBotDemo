@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>I WANT TO DELIVER A PACKAGE</pattern>
+<template>Welcome to Isac Proper Logistics company, where do you want your package delivered</template>
+</category>
+<category><pattern>HOW MUCH</pattern>
+<template>Delivery costs N3,000.</template>
+</category>
+<category><pattern>WHERE IS MY PACKAGE</pattern>
+<template>Please can i have your tracking number</template>
+</category>
+</aiml>
